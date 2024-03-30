@@ -85,7 +85,7 @@ button:hover {
   gap: 8px;
   height: 126px;
   overflow: hidden;
-  font-size: 1.7rem;
+  font-size: 1.8rem;
   margin-bottom: 20px;
   background-color: #1e1e1e;
   border: none;
@@ -95,17 +95,11 @@ button:hover {
   resize: none;
 }
 
-.word-style {
+/* .active-word {
   background-color: rgb(128, 122, 122);
   border-radius: 10px;
   text-decoration: underline;
-}
-
-.active-word {
-  background-color: rgb(128, 122, 122);
-  border-radius: 10px;
-  text-decoration: underline;
-}
+} */
 
 /* .cursor::after {
   content: '';
